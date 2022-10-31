@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+// 1ci task
+var input = 24;
+var num = 2;
+var answ = 1;
+while (input > num)
+{
+
+   num *= 2;
+   answ++;
+
+}
+var close = input - num / 2;
+var far = num - input;
+// 1ci taski tam yaza bilmedim
+
+//Task2
+
+var num = 643;
+var sum = 0;
+var value = 0;
+while (num > 0)
+{
+    value = num % 10;
+    num /= 10;
+    sum += value;
+    
+}
+console.log(sum);
+
+
+
+//Task3
+var num = 0;
+var count = 0;
+for (let i = 1; i <= num; i++)
+{
+   if (num % i == 0)
+   {
+
+       count++;
+   }
+}
+if (count > 2)
+{
+   console.log("murekkebdir");
+}
+if (count == 1)
+{
+   console.log("ne sadedir ne murekkeb");
+}
+else
+{
+   console.log("sadedir");
+}
+
+
+    </script>
+</body>
+</html>
