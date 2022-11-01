@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vasif_PC\\source\\repos\\task\\task\\task.csproj",
+      "projectUniqueName": "C:\\Users\\Vasif_PC\\Desktop\\lesson\\task\\task\\task.csproj",
       "projectName": "task",
-      "projectPath": "C:\\Users\\Vasif_PC\\source\\repos\\task\\task\\task.csproj",
+      "projectPath": "C:\\Users\\Vasif_PC\\Desktop\\lesson\\task\\task\\task.csproj",
       "packagesPath": "C:\\Users\\Vasif_PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vasif_PC\\source\\repos\\task\\task\\obj\\",
+      "outputPath": "C:\\Users\\Vasif_PC\\Desktop\\lesson\\task\\task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vasif_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -27,7 +27,7 @@ while (input > givennum)
 
 
     //3cu task
-    int numb = 0;
+    int numb = 50;
     int count = 0;
     for (int i = 1; i <= numb; i++)
     {
@@ -41,7 +41,7 @@ while (input > givennum)
     {
         Console.WriteLine("murekkebdir");
     }
-    if (count == 1)
+    else if (count == 1)
     {
         Console.WriteLine("ne sadedir ne murekkeb");
     }
