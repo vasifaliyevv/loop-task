@@ -7,10 +7,21 @@ while (input > givennum)
     givennum *= 2;
     answ++;
 }
-    //task1 tam yaza bilmedim bir hessine qeder geldim
 
-    //task2
-    int num = 643;
+int close = input - givennum / 2;
+int far = givennum - input;
+if (far <= close)
+{
+    Console.WriteLine(--answ);
+}
+else
+{
+    Console.WriteLine(answ);
+}
+
+
+//task2
+int num = 643;
     int sum = 0;
     int value = 0;
     while (num > 0)
